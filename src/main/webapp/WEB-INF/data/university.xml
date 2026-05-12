@@ -1,0 +1,25 @@
+<faculties>
+    <faculty>
+        <id>1</id>
+        <name>ФІОТ</name>
+        <logo>fict.png</logo>
+        <website>fict.kpi.ua</website>
+        <groups>
+            <group>
+                <groupNumber>ІП-01</groupNumber>
+                <formationYear>2020</formationYear>
+                <students>
+                    <student>
+                        <id>10</id>
+                        <fullName>Шевченко Тарас</fullName>
+                        <email>taras@kpi.ua</email>
+                        <studentIdCard>AA001</studentIdCard>
+                    </student>
+                    <welcome-file-list>
+                        <welcome-file>index.html</welcome-file>
+                    </welcome-file-list>
+                </students>
+            </group>
+        </groups>
+    </faculty>
+</faculties>
