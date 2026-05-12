@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Факультет Інформаційних Технологій",
+    "logo": "it_logo.png",
+    "groups": [
+      {
+        "groupNumber": "ІТ-22",
+        "formationYear": 2022,
+        "students": [
+          {
+            "id": 1,
+            "fullName": "Базиленко Віктор",
+            "phone": "050-000-00-01",
+            "email": "bazylenko@univ.edu.ua",
+            "studentIdCard": "КВ-100001",
+            "photo": "default.jpg"
+          },
+          {
+            "id": 2,
+            "fullName": "Бугакова Єлизавета",
+            "phone": "050-000-00-02",
+            "email": "buhakova@univ.edu.ua",
+            "studentIdCard": "КВ-100002",
+            "photo": "default.jpg"
+          },
+          {
+            "id": 3,
+            "fullName": "Буднік Андрій",
+            "phone": "050-000-00-03",
+            "email": "budnik@univ.edu.ua",
+            "studentIdCard": "КВ-100003",
+            "photo": "default.jpg"
+          },
+          {
+            "id": 4,
+            "fullName": "Вітвіцька Анна",
+            "phone": "050-000-00-04",
+            "email": "vitvitska@univ.edu.ua",
+            "studentIdCard": "КВ-100004",
+            "photo": "default.jpg"
+          },
+          {
+            "id": 5,
+            "fullName": "Гуцул Іван",
+            "phone": "050-000-00-05",
+            "email": "hutsul@univ.edu.ua",
+            "studentIdCard": "КВ-100005",
+            "photo": "default.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
